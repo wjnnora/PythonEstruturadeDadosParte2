@@ -1,8 +1,7 @@
 ## Python - Estrutura de Dados - Parte 2
-Curso TreinaWeb - Python Estrutura de Dados - Parte 1
+Curso TreinaWeb - Python Estrutura de Dados - Parte 2
 
-- Vetores;
-- Listas Ligadas;
-- Listas duplamente Ligadas;
-- Pilhas;
-- Filas;
+- Sets;
+- Tabelas de espalhamento;
+- Mapas;
+- Arvores;
